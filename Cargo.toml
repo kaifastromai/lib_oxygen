@@ -1,4 +1,10 @@
 [package]
+authors = ["Kaifas Stromai"]
+description = "A simple language server for the novella kernel. "
+repository = "https://github.com/kaifastromai/lib_oxygen"
+readme = "./readme"
+homepage = "https://github.com/kaifastromai/lib_oxygen"
+documentation = "N/A"
 name = "lib_oxygen"
 version = "0.1.0"
 edition = "2021"
