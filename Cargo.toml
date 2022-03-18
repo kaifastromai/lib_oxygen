@@ -2,7 +2,7 @@
 authors = ["Kaifas Stromai"]
 description = "A simple language server for the novella kernel. "
 repository = "https://github.com/kaifastromai/lib_oxygen"
-readme = "./readme"
+readme = "readme"
 homepage = "https://github.com/kaifastromai/lib_oxygen"
 documentation = "N/A"
 name = "lib_oxygen"
